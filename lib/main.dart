@@ -24,7 +24,7 @@ class MandarinaApp extends StatelessWidget {
                 height: 14.0,
               ),
               Text(
-                "Fernando Mogollón",
+                "Fernando Mogollón Vite",
                 style: TextStyle(
                   fontSize: 30.0,
                   fontWeight: FontWeight.bold,
